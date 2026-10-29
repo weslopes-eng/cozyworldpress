@@ -3,13 +3,13 @@ title: "Cozy Christmas Coloring Books for Adults: Bold & Easy Picks for 2026"
 slug: cozy-christmas-coloring-books-for-adults
 target_keyword: cozy christmas coloring books for adults
 secondary: bold and easy christmas coloring book, christmas coloring book single sided, hygge coloring book
-author: Wesley Lopes, economista
+author: Lily Atwood
 status: published
 ---
 
 # Cozy Christmas Coloring Books for Adults: Bold & Easy Picks for 2026
 
-*By Wesley Lopes, economista*
+*By Lily Atwood*
 
 > **Note:** One book on this list, *Cozy Christmas Around the World*, is published by Cozy World Press, the imprint behind this site.
 
@@ -126,4 +126,4 @@ Square paperbacks around 8.5 x 8.5 in fit easily in a stocking. Pair one with a 
 Before Thanksgiving if you can. Popular titles can sell through and delivery estimates can slip past December 25 ([Colored Calm](https://coloredcalm.com/best-christmas-coloring-books-2026-6-cozy-titles-under-25-dollars-that-are-in-stock-now/)).
 
 ---
-*Wesley Lopes, economista*
+*Lily Atwood*

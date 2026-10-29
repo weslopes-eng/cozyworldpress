@@ -31,7 +31,7 @@ faq = []
 for q, a in re.findall(r"^### (.+?)\n(.+?)(?=\n### |\n---|\Z)", src.split("## FAQ",1)[1], flags=re.S|re.M):
     faq.append({"@type":"Question","name":q.strip(),"acceptedAnswer":{"@type":"Answer","text":re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", a.strip())}})
 path = "guides/cozy-christmas-coloring-books-for-adults/"
-ld = {"@context":"https://schema.org","@graph":[{"@type":"Article","headline":title,"description":desc,"inLanguage":"en-US","datePublished":"2026-10-29","dateModified":"2026-10-29","mainEntityOfPage":DOM+"/"+path,"author":{"@type":"Person","name":"Wesley Lopes"},"publisher":PUB},{"@type":"FAQPage","mainEntity":faq}]}
+ld = {"@context":"https://schema.org","@graph":[{"@type":"Article","headline":title,"description":desc,"inLanguage":"en-US","datePublished":"2026-10-29","dateModified":"2026-10-29","mainEntityOfPage":DOM+"/"+path,"author":{"@type":"Person","name":"Lily Atwood"},"publisher":PUB},{"@type":"FAQPage","mainEntity":faq}]}
 write(path, shell(title, desc, path, markdown.markdown(src, extensions=["tables"]), ld, "article"), "2026-10-29")
 # Home
 home = f"""<h1>Cozy coloring for adults and teens</h1><p>Cozy World Press makes bold &amp; easy coloring books with warm, cozy scenes from around the world, made to finish in one relaxing evening.</p>
@@ -41,7 +41,7 @@ home = f"""<h1>Cozy coloring for adults and teens</h1><p>Cozy World Press makes 
 <p>See finished pages and color ideas on <a href="{PIN}">Pinterest @cozyworldpress</a>.</p>"""
 write("", shell("Cozy World Press | Bold & Easy Cozy Coloring Books for Adults", "Bold & easy cozy coloring books for adults and teens by Lily Atwood, plus guides to choosing and enjoying holiday coloring books.", "", home, {"@context":"https://schema.org","@type":"WebSite","name":"Cozy World Press","url":DOM+"/","inLanguage":"en-US"}), "2026-10-29")
 about = f"""<h1>About Cozy World Press</h1><p>Cozy World Press is a small independent imprint of bold &amp; easy coloring books for adults and teens. Our books are illustrated collections published under the pen name <b>Lily Atwood</b>.</p>
-<p>Our guides are written by Wesley Lopes, economista. Every fact links to its source. When we mention one of our own books, we say so.</p><p>Follow along on <a href="{PIN}">Pinterest @cozyworldpress</a>.</p>"""
+<p>Our guides are written by Lily Atwood. Every fact links to its source. When we mention one of our own books, we say so.</p><p>Follow along on <a href="{PIN}">Pinterest @cozyworldpress</a>.</p>"""
 write("about/", shell("About | Cozy World Press", "About Cozy World Press, an independent imprint of bold & easy coloring books by Lily Atwood.", "about/", about), None)
 (R/"style.css").write_text(CSS)
 (R/"robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {DOM}/sitemap.xml\n")
