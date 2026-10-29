@@ -85,7 +85,7 @@ A hardcover from Gibbs Smith (August 18, 2026; 80 pages). It has 40 illustration
 
 **Best for:** people who love travel, world Christmas traditions, or want a different take on holiday scenes.
 
-**Coming soon:** *Cozy Winter Around the World*, 50 snowy scenes from around the globe.
+**Also from Lily Atwood:** *Cozy Winter Around the World* has 50 bold & easy snowy scenes from every continent, from snow monkeys in a Nagano hot spring to a frozen Dutch canal. It has no Christmas theme, so it works all winter. The paperback is 108 pages in the same 8.5 x 8.5 in format, with single-sided pages, published October 29, 2026 ([Amazon listing](https://www.amazon.com/dp/B0HPPLG5WL)).
 
 ## How to choose in 30 seconds
 

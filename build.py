@@ -36,7 +36,7 @@ write(path, shell(title, desc, path, markdown.markdown(src, extensions=["tables"
 # Home
 home = f"""<h1>Cozy coloring for adults and teens</h1><p>Cozy World Press makes bold &amp; easy coloring books with warm, cozy scenes from around the world, made to finish in one relaxing evening.</p>
 <div class="card"><h2 style="margin-top:0">Cozy Christmas Around the World</h2><p>By Lily Atwood. 50 bold &amp; easy festive scenes from every corner of the globe, single-sided pages, large 8.5 x 8.5 in format.</p><p><a class="btn" href="{AMZ}" rel="noopener">See it on Amazon</a></p></div>
-<div class="card"><h2 style="margin-top:0">Cozy Winter Around the World</h2><p>Coming soon: 50 snowy scenes from around the globe.</p></div>
+<div class="card"><h2 style="margin-top:0">Cozy Winter Around the World</h2><p>By Lily Atwood. 50 bold &amp; easy snowy scenes from every corner of the globe, with no Christmas theme, so it works all winter. Single-sided pages, large 8.5 x 8.5 in format.</p><p><a class="btn" href="https://www.amazon.com/dp/B0HPPLG5WL" rel="noopener">See it on Amazon</a></p></div>
 <h2>Guides</h2><ul><li><a href="{DOM}/{path}">Cozy Christmas Coloring Books for Adults: Bold &amp; Easy Picks for 2026</a></li></ul>
 <p>See finished pages and color ideas on <a href="{PIN}">Pinterest @cozyworldpress</a>.</p>"""
 write("", shell("Cozy World Press | Bold & Easy Cozy Coloring Books for Adults", "Bold & easy cozy coloring books for adults and teens by Lily Atwood, plus guides to choosing and enjoying holiday coloring books.", "", home, {"@context":"https://schema.org","@type":"WebSite","name":"Cozy World Press","url":DOM+"/","inLanguage":"en-US"}), "2026-10-29")
