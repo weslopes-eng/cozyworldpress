@@ -79,9 +79,9 @@ A hardcover from Gibbs Smith (August 18, 2026; 80 pages). It has 40 illustration
 
 **Best for:** colored pencil users who like long sessions.
 
-### Cozy Christmas Around the World, by Lily Atwood: a holiday trip in 50 pages
+### Cozy Christmas Around the World, by Lily Atwood: a holiday trip in 50 scenes
 
-*Our book, so judge accordingly.* It has 50 bold & easy festive scenes set in cities and countries around the world, from hygge evenings in Copenhagen, Stockholm and Reykjavík to a summer Christmas beach barbecue in Sydney and ice skating under the big tree in New York. Pages are single-sided in a large 8.5 x 8.5 in format, made for adults and teens ([Amazon](https://www.amazon.com/dp/B0HMPD1G3W)). See finished color examples on Pinterest at [@cozyworldpress](https://www.pinterest.com/cozyworldpress/).
+*Our book, so judge accordingly.* It has 50 bold & easy festive scenes set in cities and countries around the world, from hygge evenings in Copenhagen, Stockholm and Reykjavík to a summer Christmas beach barbecue in Sydney and ice skating under the big tree in New York. Every drawing is printed single-sided with a blank back, and the book is a large 8.5 x 8.5 in square paperback of 108 pages, including a color test page, made for adults and teens. Published October 11, 2026 ([Amazon listing](https://www.amazon.com/dp/B0HMPD1G3W)). See finished color examples on Pinterest at [@cozyworldpress](https://www.pinterest.com/cozyworldpress/).
 
 **Best for:** people who love travel, world Christmas traditions, or want a different take on holiday scenes.
 
